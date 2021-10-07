@@ -1,2 +1,2 @@
-# Shoes-Nike-Landing-Page
-Online Shoes Store Concept Landing Page
+# makeup and fashion blog
+Demo landing and discription page 
